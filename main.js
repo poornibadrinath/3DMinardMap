@@ -14,8 +14,10 @@ var map_length, map_width, map_height;
 map_length = 2800;
 map_width = 2400;
 map_height = 2000;
-var map_center = {lat: 54.875 , lng: 30.9};
-var map_scale = 7;
+//var map_center = {lat: 54.875 , lng: 30.9};
+var map_center = {lat: 12.974851 , lng: 77.618414};
+//var map_scale = 7;
+var map_scale = 13;
 
 
 mapboxgl.accessToken = 'pk.eyJ1IjoieXVoYW5nZ3UiLCJhIjoiY2xqbzB2c2xjMTFycjNncjdtcXM1dG9layJ9.yiwAAP_eWRx-nszvxcLkaQ';
@@ -362,9 +364,11 @@ function drawLinesOnPlane(vertices,troops,temperatures,coor) { var vertex, geome
 
 async function createFlows() {
 
-     const data = await d3.json("data/minardData.json");
+    //const data = await d3.json("data/minardData.json");
+    const data_raw = await d3.json("data/blrmodes.json");
 
-     console.log(data);
+    const data = d3.group(data_raw, d=>d.Route_No);
+    console.log(data);
 
     var pointOrigin = {
         x: 0,y:0
@@ -374,30 +378,36 @@ async function createFlows() {
 
     var point = new THREE.Vector3(0,0,0);
 
-    data.features.forEach(function(feature){
+    data.forEach(function(trip){
+
+        //console.log(trip)
 
         var coor = [];
 
-        var points = [], troops = [], temperatures = [], count = feature.attribute.length;
+        var points = [], troops = [], temperatures = [], count = trip.length;
 
         for(var i = 0; i < count; i++)
         {
             //every stop of the troops
-            var stop = feature.attribute[i];
+
+            console.log(trip)
+            var stop = trip[i];
 
             //project => (lng, lat)
             var temp_point =  theMap.project( new mapboxgl.LngLat(stop.Longitude , stop.Latitude));
 
             point.x = temp_point.x - pointOrigin.x - map_length/2;
             point.y = 2* point_center.y - temp_point.y - pointOrigin.y - map_width/2 ;
-            point.z = stop.Day*10;
+            point.z = 10 * i;
 
             coor.push({lat:stop.Latitude, lng:stop.Longitude });
             points.push([point.x, point.y, point.z]);
-            troops.push(feature.attribute[i].Troops);
-            temperatures.push(feature.attribute[i].Temperature);
+            troops.push(stop.Durations);
+            temperatures.push(10);
 
         }
+
+        console.log(coor)
 
 
         var flow_3D = drawCylinderLines(points,troops,temperatures,coor);
