@@ -15,12 +15,13 @@ map_length = 2800;
 map_width = 2400;
 map_height = 2000;
 //var map_center = {lat: 54.875 , lng: 30.9};
-var map_center = {lat: 12.974851 , lng: 77.618414};
+//var map_center = {lat: 12.974851 , lng: 77.618414};
+var map_center = {lat: 52.3552 , lng: 4.8957};
 //var map_scale = 7;
 var map_scale = 13;
 
 
-mapboxgl.accessToken = 'pk.eyJ1IjoieXVoYW5nZ3UiLCJhIjoiY2xqbzB2c2xjMTFycjNncjdtcXM1dG9layJ9.yiwAAP_eWRx-nszvxcLkaQ';
+mapboxgl.accessToken = 'pk.eyJ1IjoicG9vcm5pLWJhZHJpbmF0aCIsImEiOiJjanUwbmYzc3UwdDI3NGRtZ3kzMTltbWZpIn0.SB9PEksVcEwWvZJ9A7J9uA';
 
 // the app starts in initialize()
 
@@ -45,8 +46,6 @@ function initialize() {
     directionalLight.position.set( 1000, -2, 10 ).normalize();
     glScene.add(directionalLight);
 
-
-    // Three.js org
     var directionalLight_3 = new THREE.DirectionalLight(0xFFFFFF, 1.0);
     directionalLight_3.position.set(0, 0, 2300);
     directionalLight_3.target.position.set( 1400, 800, 0 );
@@ -188,30 +187,28 @@ function convert2D(vertex) {
     return new THREE.Vector2(vertex[0], vertex[1]);
 }
 
-function drawCylinderLines(vertices ,troops, temperatures, coor) {
-    //geometry, thickness, color, line
+function drawCylinderLines(vertices,durations,coor) {//,troops,temperatures
 
     var vertex, geometry, material, mesh;
-    var max = 96000;
-    var min = 1;
+    var max = d3.max(durations);
+    var min = d3.min(durations);
+    console.log(max, min)
 
     //set the range of troops
-    var trooplinear = d3.scaleLinear([min, max],[2, 20] );//thick
-    var temperaturelinear = d3.scaleLinear([d3.min(temperatures), d3.max(temperatures)], [ "blue","red"]);
+    var trooplinear = d3.scaleLinear([min, max],[2, 20] );
+    var temperaturelinear = d3.scaleLinear([d3.min(durations), d3.max(durations)], [ "blue","red"]);
 
     var segments = new THREE.Object3D();
     vertices = vertices.map(convert);
-
-
     //console.log(vertices)
 
     for (var i = 1, len = vertices.length - 1; i < len; i++) {
 
         var path = new THREE.QuadraticBezierCurve3(vertices[i-1],vertices[i], vertices[i+1]);
-        var color = temperaturelinear(temperatures[i]);
+        var color = temperaturelinear(durations[i]);
         vertex = vertices[i];
 
-        geometry = new THREE.TubeGeometry(path, 4 ,trooplinear(troops[i]) ,16);
+        geometry = new THREE.TubeGeometry(path, 4 ,trooplinear(durations[i]) ,16);
         material = new THREE.MeshLambertMaterial({
             opacity: 1,
             transparent: true,
@@ -368,60 +365,56 @@ function drawLinesOnPlane(vertices,troops,temperatures,coor) { var vertex, geome
 async function createFlows() {
 
     //const data = await d3.json("data/minardData.json");
-    const data_raw = await d3.json("data/blrmodes.json");
-    //console.log(data_raw);
+    const data_raw = await d3.json("grouped_data.json");
 
-    const data = d3.group(data_raw, d=>d.Route_No); // group points into three flows/ trips
-    console.log(data);
+    const data = d3.group(data_raw, d=>d.route);
+    //console.log(data);
 
     var pointOrigin = {
         x: 0,y:0
     };
 
-    //get the projection
     var point_center = theMap.project(new mapboxgl.LngLat(map_center.lng, map_center.lat));
 
     var point = new THREE.Vector3(0,0,0);
 
     data.forEach(function(trip){
 
-        //console.log(trip)
+        console.log(trip)
 
         var coor = [];
 
-        var points = [], troops = [], temperatures = [], count = trip.length;
+        var points = [], durations = [], count = trip.length;
 
         for(var i = 0; i < count; i++)
         {
             //every stop of the troops
-
-            //console.log(trip)
             var stop = trip[i];
 
             //project => (lng, lat)
-            var temp_point =  theMap.project( new mapboxgl.LngLat(stop.Longitude , stop.Latitude));
+            var temp_point =  theMap.project( new mapboxgl.LngLat(stop.longitude , stop.latitude));
 
             point.x = temp_point.x - pointOrigin.x - map_length/2;
             point.y = 2* point_center.y - temp_point.y - pointOrigin.y - map_width/2 ;
-            point.z = 10 * stop.Time;
+            //point.z = stop.durationsec*10;
+            point.z = i*10;
 
-            coor.push({lat:stop.Latitude, lng:stop.Longitude });
+            coor.push({lat:stop.latitude, lng:stop.longitude });
             points.push([point.x, point.y, point.z]);
-            troops.push(stop.Durations);
-            temperatures.push(10);
-
+            durations.push(stop.duration);
+            //temperatures.push(10);
         }
 
-       // console.log(coor)
-       //var circle = drawCircle(center point, radius);
+        console.log(coor)
 
-        var flow_3D = drawCylinderLines(points,troops,temperatures,coor); //Three.js
+
+        var flow_3D = drawCylinderLines(points,durations,coor);
         flow_3D.castShadow = true;
         flow_3D.receiveShadow = true;
         glScene.add(flow_3D);
 
-        var flow_2D = drawLinesOnPlane(points,troops,temperatures,coor);
-        glScene.add(flow_2D);
+        //var flow_2D = drawLinesOnPlane(points,durations,coor);
+        //glScene.add(flow_2D);
 
     });
 
@@ -437,5 +430,3 @@ function update() {
     glRenderer.render(glScene, camera);
     requestAnimationFrame(update);
 }
-
-

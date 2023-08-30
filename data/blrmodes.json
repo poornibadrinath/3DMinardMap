@@ -1,3 +1,4 @@
+
 [
  {
    "City": "Bengaluru",
@@ -15,6 +16,7 @@
    "Latitude": 12.94779253,
    "Longitude": 77.53344893,
    "Time": "19:11:05",
+   //time =>
    "Durations": 40
  },
  {
