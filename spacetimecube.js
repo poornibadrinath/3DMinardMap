@@ -15,8 +15,8 @@ map_length = 2800;
 map_width = 2400;
 map_height = 2000;
 //var map_center = {lat: 54.875 , lng: 30.9};
-//var map_center = {lat: 12.974851 , lng: 77.618414};
-var map_center = {lat: 52.3552 , lng: 4.8957};
+var map_center = {lat: 12.974851 , lng: 77.618414};
+//var map_center = {lat: 52.3552 , lng: 4.8957};
 //var map_scale = 7;
 var map_scale = 13;
 
@@ -365,7 +365,7 @@ function drawLinesOnPlane(vertices,troops,temperatures,coor) { var vertex, geome
 async function createFlows() {
 
     //const data = await d3.json("data/minardData.json");
-    const data_raw = await d3.json("grouped_data.json");
+    const data_raw = await d3.json("bengalurumodes.json");
 
     const data = d3.group(data_raw, d=>d.route);
     //console.log(data);
