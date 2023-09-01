@@ -1,6 +1,6 @@
 [
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "metro1",
     "route": "1",
     "name ": "M52",
@@ -11,7 +11,7 @@
     "durationsec": "720"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "metro1",
     "route": "1",
     "name ": "M52",
@@ -22,7 +22,7 @@
     "durationsec": "720"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "metro1",
     "route": "1",
     "name ": "M52",
@@ -33,7 +33,7 @@
     "durationsec": "720"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "metro1",
     "route": "1",
     "name ": "M52",
@@ -44,7 +44,7 @@
     "durationsec": "720"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "metro1",
     "route": "1",
     "name ": "M52",
@@ -55,7 +55,7 @@
     "durationsec": "720"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "metro1",
     "route": "1",
     "name ": "M52",
@@ -66,7 +66,7 @@
     "durationsec": "720"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "metro1",
     "route": "1",
     "name ": "M52",
@@ -77,7 +77,7 @@
     "durationsec": "720"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "metro1",
     "route": "1",
     "name ": "M52",
@@ -88,7 +88,7 @@
     "durationsec": "720"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "metro1",
     "route": "1",
     "name ": "M52",
@@ -99,7 +99,7 @@
     "durationsec": "720"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "metro1",
     "route": "1",
     "name ": "M52",
@@ -110,7 +110,7 @@
     "durationsec": "720"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "metro1",
     "route": "1",
     "name ": "M52",
@@ -121,7 +121,7 @@
     "durationsec": "720"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "metro1",
     "route": "1",
     "name ": "M52",
@@ -132,7 +132,7 @@
     "durationsec": "720"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "metro1",
     "route": "1",
     "name ": "M52",
@@ -143,7 +143,7 @@
     "durationsec": "720"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "metro1",
     "route": "1",
     "name ": "M52",
@@ -154,7 +154,7 @@
     "durationsec": "720"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "metro1",
     "route": "1",
     "name ": "M52",
@@ -165,7 +165,7 @@
     "durationsec": "720"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "metro1",
     "route": "1",
     "name ": "M52",
@@ -176,7 +176,7 @@
     "durationsec": "720"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "metro1",
     "route": "1",
     "name ": "M52",
@@ -187,7 +187,7 @@
     "durationsec": "720"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "tram",
     "route": "5",
     "name ": "T25",
@@ -198,7 +198,7 @@
     "durationsec": "1380"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "tram",
     "route": "5",
     "name ": "T25",
@@ -209,7 +209,7 @@
     "durationsec": "1380"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "tram",
     "route": "5",
     "name ": "T25",
@@ -220,7 +220,7 @@
     "durationsec": "1380"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "tram",
     "route": "5",
     "name ": "T25",
@@ -231,7 +231,7 @@
     "durationsec": "1380"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "tram",
     "route": "5",
     "name ": "T25",
@@ -242,7 +242,7 @@
     "durationsec": "1380"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "tram",
     "route": "5",
     "name ": "T25",
@@ -253,7 +253,7 @@
     "durationsec": "1380"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "tram",
     "route": "5",
     "name ": "T25",
@@ -264,7 +264,7 @@
     "durationsec": "1380"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "tram",
     "route": "5",
     "name ": "T25",
@@ -275,7 +275,7 @@
     "durationsec": "1380"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "tram",
     "route": "5",
     "name ": "T25",
@@ -286,7 +286,7 @@
     "durationsec": "1380"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "tram",
     "route": "5",
     "name ": "T25",
@@ -297,7 +297,7 @@
     "durationsec": "1380"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "tram",
     "route": "5",
     "name ": "T25",
@@ -308,7 +308,7 @@
     "durationsec": "1380"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "tram",
     "route": "5",
     "name ": "T25",
@@ -319,7 +319,7 @@
     "durationsec": "1380"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "tram",
     "route": "5",
     "name ": "T25",
@@ -330,7 +330,7 @@
     "durationsec": "1380"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "tram",
     "route": "5",
     "name ": "T25",
@@ -341,7 +341,7 @@
     "durationsec": "1380"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "tram",
     "route": "5",
     "name ": "T25",
@@ -352,7 +352,7 @@
     "durationsec": "1380"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "tram",
     "route": "5",
     "name ": "T25",
@@ -363,7 +363,7 @@
     "durationsec": "1380"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "tram",
     "route": "5",
     "name ": "T25",
@@ -374,7 +374,7 @@
     "durationsec": "1380"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "tram",
     "route": "5",
     "name ": "T25",
@@ -385,7 +385,7 @@
     "durationsec": "1380"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "tram",
     "route": "5",
     "name ": "T25",
@@ -396,7 +396,7 @@
     "durationsec": "1380"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "tram",
     "route": "5",
     "name ": "T25",
@@ -407,7 +407,7 @@
     "durationsec": "1380"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "tram",
     "route": "5",
     "name ": "T25",
@@ -418,7 +418,7 @@
     "durationsec": "1380"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "tram",
     "route": "5",
     "name ": "T25",
@@ -429,7 +429,7 @@
     "durationsec": "1380"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "tram",
     "route": "5",
     "name ": "T25",
@@ -440,7 +440,7 @@
     "durationsec": "1380"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "tram",
     "route": "5",
     "name ": "T25",
@@ -451,7 +451,7 @@
     "durationsec": "1380"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "tram",
     "route": "5",
     "name ": "T25",
@@ -462,7 +462,7 @@
     "durationsec": "1380"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "tram",
     "route": "5",
     "name ": "T25",
@@ -473,7 +473,7 @@
     "durationsec": "1380"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "tram",
     "route": "5",
     "name ": "T25",
@@ -484,7 +484,7 @@
     "durationsec": "1380"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "tram",
     "route": "5",
     "name ": "T25",
@@ -495,7 +495,7 @@
     "durationsec": "1380"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "tram",
     "route": "5",
     "name ": "T25",
@@ -506,7 +506,7 @@
     "durationsec": "1380"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "tram",
     "route": "5",
     "name ": "T25",
@@ -517,7 +517,7 @@
     "durationsec": "1380"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "tram",
     "route": "5",
     "name ": "T25",
@@ -528,7 +528,7 @@
     "durationsec": "1380"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "tram",
     "route": "5",
     "name ": "T25",
@@ -539,7 +539,7 @@
     "durationsec": "1380"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "tram",
     "route": "5",
     "name ": "T25",
@@ -550,7 +550,7 @@
     "durationsec": "1380"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "tram",
     "route": "5",
     "name ": "T25",
@@ -561,7 +561,7 @@
     "durationsec": "1380"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "tram",
     "route": "5",
     "name ": "T25",
@@ -572,7 +572,7 @@
     "durationsec": "1380"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "tram",
     "route": "5",
     "name ": "T25",
@@ -583,7 +583,7 @@
     "durationsec": "1380"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "tram",
     "route": "5",
     "name ": "T25",
@@ -594,7 +594,7 @@
     "durationsec": "1380"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "tram",
     "route": "5",
     "name ": "T25",
@@ -605,7 +605,7 @@
     "durationsec": "1380"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "tram",
     "route": "5",
     "name ": "T25",
@@ -616,7 +616,7 @@
     "durationsec": "1380"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "tram",
     "route": "5",
     "name ": "T25",
@@ -627,7 +627,7 @@
     "durationsec": "1380"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "tram",
     "route": "5",
     "name ": "T25",
@@ -638,7 +638,7 @@
     "durationsec": "1380"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "tram",
     "route": "5",
     "name ": "T25",
@@ -649,7 +649,7 @@
     "durationsec": "1380"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "tram",
     "route": "5",
     "name ": "T25",
@@ -660,7 +660,7 @@
     "durationsec": "1380"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "tram",
     "route": "5",
     "name ": "T25",
@@ -671,7 +671,7 @@
     "durationsec": "1380"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "tram",
     "route": "5",
     "name ": "T25",
@@ -682,7 +682,7 @@
     "durationsec": "1380"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "tram",
     "route": "5",
     "name ": "T25",
@@ -693,7 +693,7 @@
     "durationsec": "1380"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "tram",
     "route": "5",
     "name ": "T25",
@@ -704,7 +704,7 @@
     "durationsec": "1380"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "tram",
     "route": "5",
     "name ": "T25",
@@ -715,7 +715,7 @@
     "durationsec": "1380"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "tram",
     "route": "5",
     "name ": "T25",
@@ -726,7 +726,7 @@
     "durationsec": "1380"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "tram",
     "route": "5",
     "name ": "T25",
@@ -737,7 +737,7 @@
     "durationsec": "1380"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "tram",
     "route": "5",
     "name ": "T25",
@@ -748,7 +748,7 @@
     "durationsec": "1380"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "tram",
     "route": "5",
     "name ": "T25",
@@ -759,7 +759,7 @@
     "durationsec": "1380"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "tram",
     "route": "5",
     "name ": "T25",
@@ -770,7 +770,7 @@
     "durationsec": "1380"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "tram",
     "route": "5",
     "name ": "T25",
@@ -781,7 +781,7 @@
     "durationsec": "1380"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "tram",
     "route": "5",
     "name ": "T25",
@@ -792,7 +792,7 @@
     "durationsec": "1380"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "tram",
     "route": "5",
     "name ": "T25",
@@ -803,7 +803,7 @@
     "durationsec": "1380"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "tram",
     "route": "5",
     "name ": "T25",
@@ -814,7 +814,7 @@
     "durationsec": "1380"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "tram",
     "route": "5",
     "name ": "T25",
@@ -825,7 +825,7 @@
     "durationsec": "1380"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "tram",
     "route": "5",
     "name ": "T25",
@@ -836,7 +836,7 @@
     "durationsec": "1380"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "tram",
     "route": "5",
     "name ": "T25",
@@ -847,7 +847,7 @@
     "durationsec": "1380"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "tram",
     "route": "5",
     "name ": "T25",
@@ -858,7 +858,7 @@
     "durationsec": "1380"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "tram",
     "route": "5",
     "name ": "T25",
@@ -869,7 +869,7 @@
     "durationsec": "1380"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "tram",
     "route": "5",
     "name ": "T25",
@@ -880,7 +880,7 @@
     "durationsec": "1380"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "tram",
     "route": "5",
     "name ": "T25",
@@ -891,7 +891,7 @@
     "durationsec": "1380"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "tram",
     "route": "5",
     "name ": "T25",
@@ -902,7 +902,7 @@
     "durationsec": "1380"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "tram",
     "route": "5",
     "name ": "T25",
@@ -913,7 +913,7 @@
     "durationsec": "1380"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "tram",
     "route": "5",
     "name ": "T25",
@@ -924,7 +924,7 @@
     "durationsec": "1380"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "tram",
     "route": "5",
     "name ": "T25",
@@ -935,7 +935,7 @@
     "durationsec": "1380"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "tram",
     "route": "5",
     "name ": "T25",
@@ -946,7 +946,7 @@
     "durationsec": "1380"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "tram",
     "route": "5",
     "name ": "T25",
@@ -957,7 +957,7 @@
     "durationsec": "1380"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "tram",
     "route": "5",
     "name ": "T25",
@@ -968,7 +968,7 @@
     "durationsec": "1380"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "tram",
     "route": "5",
     "name ": "T25",
@@ -979,7 +979,7 @@
     "durationsec": "1380"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "tram",
     "route": "5",
     "name ": "T25",
@@ -990,7 +990,7 @@
     "durationsec": "1380"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "tram",
     "route": "5",
     "name ": "T25",
@@ -1001,7 +1001,7 @@
     "durationsec": "1380"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "tram",
     "route": "5",
     "name ": "T25",
@@ -1012,7 +1012,7 @@
     "durationsec": "1380"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "tram",
     "route": "5",
     "name ": "T25",
@@ -1023,7 +1023,7 @@
     "durationsec": "1380"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "tram",
     "route": "5",
     "name ": "T25",
@@ -1034,7 +1034,7 @@
     "durationsec": "1380"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "tram",
     "route": "5",
     "name ": "T25",
@@ -1045,7 +1045,7 @@
     "durationsec": "1380"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "tram",
     "route": "5",
     "name ": "T25",
@@ -1056,7 +1056,7 @@
     "durationsec": "1380"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "tram",
     "route": "5",
     "name ": "T25",
@@ -1067,7 +1067,7 @@
     "durationsec": "1380"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "tram",
     "route": "5",
     "name ": "T25",
@@ -1078,7 +1078,7 @@
     "durationsec": "1380"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "walk",
     "route": "4",
     "name ": "na",
@@ -1089,7 +1089,7 @@
     "durationsec": "420"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "walk",
     "route": "4",
     "name ": "na",
@@ -1100,7 +1100,7 @@
     "durationsec": "420"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "walk",
     "route": "4",
     "name ": "na",
@@ -1111,7 +1111,7 @@
     "durationsec": "420"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "walk",
     "route": "4",
     "name ": "na",
@@ -1122,7 +1122,7 @@
     "durationsec": "420"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "walk",
     "route": "4",
     "name ": "na",
@@ -1133,7 +1133,7 @@
     "durationsec": "420"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "walk",
     "route": "4",
     "name ": "na",
@@ -1144,7 +1144,7 @@
     "durationsec": "420"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "walk",
     "route": "4",
     "name ": "na",
@@ -1155,7 +1155,7 @@
     "durationsec": "420"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "walk",
     "route": "4",
     "name ": "na",
@@ -1166,7 +1166,7 @@
     "durationsec": "420"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "walk",
     "route": "4",
     "name ": "na",
@@ -1177,7 +1177,7 @@
     "durationsec": "420"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "walk",
     "route": "4",
     "name ": "na",
@@ -1188,7 +1188,7 @@
     "durationsec": "420"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "walk",
     "route": "4",
     "name ": "na",
@@ -1199,7 +1199,7 @@
     "durationsec": "420"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "walk",
     "route": "4",
     "name ": "na",
@@ -1210,7 +1210,7 @@
     "durationsec": "60"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "walk",
     "route": "4",
     "name ": "na",
@@ -1221,7 +1221,7 @@
     "durationsec": "60"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "walk",
     "route": "4",
     "name ": "na",
@@ -1232,7 +1232,7 @@
     "durationsec": "60"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "walk",
     "route": "4",
     "name ": "na",
@@ -1243,7 +1243,7 @@
     "durationsec": "60"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "walk",
     "route": "4",
     "name ": "na",
@@ -1254,7 +1254,7 @@
     "durationsec": "60"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "walk",
     "route": "4",
     "name ": "na",
@@ -1265,7 +1265,7 @@
     "durationsec": "60"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "walk",
     "route": "4",
     "name ": "na",
@@ -1276,7 +1276,7 @@
     "durationsec": "360"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "walk",
     "route": "4",
     "name ": "na",
@@ -1287,7 +1287,7 @@
     "durationsec": "360"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "walk",
     "route": "4",
     "name ": "na",
@@ -1298,7 +1298,7 @@
     "durationsec": "360"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "walk",
     "route": "4",
     "name ": "na",
@@ -1309,7 +1309,7 @@
     "durationsec": "360"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "walk",
     "route": "4",
     "name ": "na",
@@ -1320,7 +1320,7 @@
     "durationsec": "360"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "walk",
     "route": "4",
     "name ": "na",
@@ -1331,7 +1331,7 @@
     "durationsec": "360"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "walk",
     "route": "4",
     "name ": "na",
@@ -1342,7 +1342,7 @@
     "durationsec": "360"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "walk",
     "route": "4",
     "name ": "na",
@@ -1353,7 +1353,7 @@
     "durationsec": "360"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "walk",
     "route": "4",
     "name ": "na",
@@ -1364,7 +1364,7 @@
     "durationsec": "360"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "walk",
     "route": "4",
     "name ": "na",
@@ -1375,7 +1375,7 @@
     "durationsec": "360"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "walk",
     "route": "4",
     "name ": "na",
@@ -1386,7 +1386,7 @@
     "durationsec": "360"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "walk",
     "route": "4",
     "name ": "na",
@@ -1397,7 +1397,7 @@
     "durationsec": "360"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "walk",
     "route": "4",
     "name ": "na",
@@ -1408,7 +1408,7 @@
     "durationsec": "360"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "walk",
     "route": "4",
     "name ": "na",
@@ -1419,7 +1419,7 @@
     "durationsec": "360"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "walk",
     "route": "4",
     "name ": "na",
@@ -1430,7 +1430,7 @@
     "durationsec": "360"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "walk",
     "route": "4",
     "name ": "na",
@@ -1441,7 +1441,7 @@
     "durationsec": "360"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "walk",
     "route": "4",
     "name ": "na",
@@ -1452,7 +1452,7 @@
     "durationsec": "360"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "walk",
     "route": "4",
     "name ": "na",
@@ -1463,7 +1463,7 @@
     "durationsec": "360"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "walk",
     "route": "4",
     "name ": "na",
@@ -1474,7 +1474,7 @@
     "durationsec": "360"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "walk",
     "route": "4",
     "name ": "na",
@@ -1485,7 +1485,7 @@
     "durationsec": "360"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "walk",
     "route": "4",
     "name ": "na",
@@ -1496,7 +1496,7 @@
     "durationsec": "360"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "walk",
     "route": "4",
     "name ": "na",
@@ -1507,7 +1507,7 @@
     "durationsec": "360"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "walk",
     "route": "4",
     "name ": "na",
@@ -1518,7 +1518,7 @@
     "durationsec": "360"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "walk",
     "route": "4",
     "name ": "na",
@@ -1529,7 +1529,7 @@
     "durationsec": "360"
   },
   {
-    "form": "publictransport",
+    "form": "1",
     "mode": "walk",
     "route": "4",
     "name ": "na",
@@ -1540,8 +1540,8 @@
     "durationsec": "360"
   },
   {
-    "form": "driving",
-    "mode": "driving",
+    "form": "2",
+    "mode": "2",
     "route": "3",
     "name ": "na",
     "longitude": "4.875884781",
@@ -1551,8 +1551,8 @@
     "durationsec": "1200"
   },
   {
-    "form": "driving",
-    "mode": "driving",
+    "form": "2",
+    "mode": "2",
     "route": "3",
     "name ": "na",
     "longitude": "4.875881128",
@@ -1562,8 +1562,8 @@
     "durationsec": "1200"
   },
   {
-    "form": "driving",
-    "mode": "driving",
+    "form": "2",
+    "mode": "2",
     "route": "3",
     "name ": "na",
     "longitude": "4.87766183",
@@ -1573,8 +1573,8 @@
     "durationsec": "1200"
   },
   {
-    "form": "driving",
-    "mode": "driving",
+    "form": "2",
+    "mode": "2",
     "route": "3",
     "name ": "na",
     "longitude": "4.877735557",
@@ -1584,8 +1584,8 @@
     "durationsec": "1200"
   },
   {
-    "form": "driving",
-    "mode": "driving",
+    "form": "2",
+    "mode": "2",
     "route": "3",
     "name ": "na",
     "longitude": "4.874592632",
@@ -1595,8 +1595,8 @@
     "durationsec": "1200"
   },
   {
-    "form": "driving",
-    "mode": "driving",
+    "form": "2",
+    "mode": "2",
     "route": "3",
     "name ": "na",
     "longitude": "4.87438263",
@@ -1606,8 +1606,8 @@
     "durationsec": "1200"
   },
   {
-    "form": "driving",
-    "mode": "driving",
+    "form": "2",
+    "mode": "2",
     "route": "3",
     "name ": "na",
     "longitude": "4.87438263",
@@ -1617,8 +1617,8 @@
     "durationsec": "1200"
   },
   {
-    "form": "driving",
-    "mode": "driving",
+    "form": "2",
+    "mode": "2",
     "route": "3",
     "name ": "na",
     "longitude": "4.874444181",
@@ -1628,8 +1628,8 @@
     "durationsec": "1200"
   },
   {
-    "form": "driving",
-    "mode": "driving",
+    "form": "2",
+    "mode": "2",
     "route": "3",
     "name ": "na",
     "longitude": "4.874467515",
@@ -1639,8 +1639,8 @@
     "durationsec": "1200"
   },
   {
-    "form": "driving",
-    "mode": "driving",
+    "form": "2",
+    "mode": "2",
     "route": "3",
     "name ": "na",
     "longitude": "4.874467515",
@@ -1650,8 +1650,8 @@
     "durationsec": "1200"
   },
   {
-    "form": "driving",
-    "mode": "driving",
+    "form": "2",
+    "mode": "2",
     "route": "3",
     "name ": "na",
     "longitude": "4.874525849",
@@ -1661,8 +1661,8 @@
     "durationsec": "1200"
   },
   {
-    "form": "driving",
-    "mode": "driving",
+    "form": "2",
+    "mode": "2",
     "route": "3",
     "name ": "na",
     "longitude": "4.874525849",
@@ -1672,8 +1672,8 @@
     "durationsec": "1200"
   },
   {
-    "form": "driving",
-    "mode": "driving",
+    "form": "2",
+    "mode": "2",
     "route": "3",
     "name ": "na",
     "longitude": "4.874420848",
@@ -1683,8 +1683,8 @@
     "durationsec": "1200"
   },
   {
-    "form": "driving",
-    "mode": "driving",
+    "form": "2",
+    "mode": "2",
     "route": "3",
     "name ": "na",
     "longitude": "4.874385847",
@@ -1694,8 +1694,8 @@
     "durationsec": "1200"
   },
   {
-    "form": "driving",
-    "mode": "driving",
+    "form": "2",
+    "mode": "2",
     "route": "3",
     "name ": "na",
     "longitude": "4.874292513",
@@ -1705,8 +1705,8 @@
     "durationsec": "1200"
   },
   {
-    "form": "driving",
-    "mode": "driving",
+    "form": "2",
+    "mode": "2",
     "route": "3",
     "name ": "na",
     "longitude": "4.874105847",
@@ -1716,8 +1716,8 @@
     "durationsec": "1200"
   },
   {
-    "form": "driving",
-    "mode": "driving",
+    "form": "2",
+    "mode": "2",
     "route": "3",
     "name ": "na",
     "longitude": "4.872820597",
@@ -1727,8 +1727,8 @@
     "durationsec": "1200"
   },
   {
-    "form": "driving",
-    "mode": "driving",
+    "form": "2",
+    "mode": "2",
     "route": "3",
     "name ": "na",
     "longitude": "4.872943754",
@@ -1738,8 +1738,8 @@
     "durationsec": "1200"
   },
   {
-    "form": "driving",
-    "mode": "driving",
+    "form": "2",
+    "mode": "2",
     "route": "3",
     "name ": "na",
     "longitude": "4.872776436",
@@ -1749,8 +1749,8 @@
     "durationsec": "1200"
   },
   {
-    "form": "driving",
-    "mode": "driving",
+    "form": "2",
+    "mode": "2",
     "route": "3",
     "name ": "na",
     "longitude": "4.872503443",
@@ -1760,8 +1760,8 @@
     "durationsec": "1200"
   },
   {
-    "form": "driving",
-    "mode": "driving",
+    "form": "2",
+    "mode": "2",
     "route": "3",
     "name ": "na",
     "longitude": "4.87125296",
@@ -1771,8 +1771,8 @@
     "durationsec": "1200"
   },
   {
-    "form": "driving",
-    "mode": "driving",
+    "form": "2",
+    "mode": "2",
     "route": "3",
     "name ": "na",
     "longitude": "4.870900712",
@@ -1782,8 +1782,8 @@
     "durationsec": "1200"
   },
   {
-    "form": "driving",
-    "mode": "driving",
+    "form": "2",
+    "mode": "2",
     "route": "3",
     "name ": "na",
     "longitude": "4.870610107",
@@ -1793,8 +1793,8 @@
     "durationsec": "1200"
   },
   {
-    "form": "driving",
-    "mode": "driving",
+    "form": "2",
+    "mode": "2",
     "route": "3",
     "name ": "na",
     "longitude": "4.869859796",
@@ -1804,8 +1804,8 @@
     "durationsec": "1200"
   },
   {
-    "form": "driving",
-    "mode": "driving",
+    "form": "2",
+    "mode": "2",
     "route": "3",
     "name ": "na",
     "longitude": "4.869657253",
@@ -1815,8 +1815,8 @@
     "durationsec": "1200"
   },
   {
-    "form": "driving",
-    "mode": "driving",
+    "form": "2",
+    "mode": "2",
     "route": "3",
     "name ": "na",
     "longitude": "4.869472323",
@@ -1826,8 +1826,8 @@
     "durationsec": "1200"
   },
   {
-    "form": "driving",
-    "mode": "driving",
+    "form": "2",
+    "mode": "2",
     "route": "3",
     "name ": "na",
     "longitude": "4.869334278",
@@ -1837,8 +1837,8 @@
     "durationsec": "1200"
   },
   {
-    "form": "driving",
-    "mode": "driving",
+    "form": "2",
+    "mode": "2",
     "route": "3",
     "name ": "na",
     "longitude": "4.869263829",
@@ -1848,8 +1848,8 @@
     "durationsec": "1200"
   },
   {
-    "form": "driving",
-    "mode": "driving",
+    "form": "2",
+    "mode": "2",
     "route": "3",
     "name ": "na",
     "longitude": "4.869176297",
@@ -1859,8 +1859,8 @@
     "durationsec": "1200"
   },
   {
-    "form": "driving",
-    "mode": "driving",
+    "form": "2",
+    "mode": "2",
     "route": "3",
     "name ": "na",
     "longitude": "4.869107219",
@@ -1870,8 +1870,8 @@
     "durationsec": "1200"
   },
   {
-    "form": "driving",
-    "mode": "driving",
+    "form": "2",
+    "mode": "2",
     "route": "3",
     "name ": "na",
     "longitude": "4.869040248",
@@ -1881,8 +1881,8 @@
     "durationsec": "1200"
   },
   {
-    "form": "driving",
-    "mode": "driving",
+    "form": "2",
+    "mode": "2",
     "route": "3",
     "name ": "na",
     "longitude": "4.869052129",
@@ -1892,8 +1892,8 @@
     "durationsec": "1200"
   },
   {
-    "form": "driving",
-    "mode": "driving",
+    "form": "2",
+    "mode": "2",
     "route": "3",
     "name ": "na",
     "longitude": "4.869005248",
@@ -1903,8 +1903,8 @@
     "durationsec": "1200"
   },
   {
-    "form": "driving",
-    "mode": "driving",
+    "form": "2",
+    "mode": "2",
     "route": "3",
     "name ": "na",
     "longitude": "4.868990141",
@@ -1914,8 +1914,8 @@
     "durationsec": "1200"
   },
   {
-    "form": "driving",
-    "mode": "driving",
+    "form": "2",
+    "mode": "2",
     "route": "3",
     "name ": "na",
     "longitude": "4.868954917",
@@ -1925,8 +1925,8 @@
     "durationsec": "1200"
   },
   {
-    "form": "driving",
-    "mode": "driving",
+    "form": "2",
+    "mode": "2",
     "route": "3",
     "name ": "na",
     "longitude": "4.868858048",
@@ -1936,8 +1936,8 @@
     "durationsec": "1200"
   },
   {
-    "form": "driving",
-    "mode": "driving",
+    "form": "2",
+    "mode": "2",
     "route": "3",
     "name ": "na",
     "longitude": "4.868796583",
@@ -1947,8 +1947,8 @@
     "durationsec": "1200"
   },
   {
-    "form": "driving",
-    "mode": "driving",
+    "form": "2",
+    "mode": "2",
     "route": "3",
     "name ": "na",
     "longitude": "4.870093527",
@@ -1958,8 +1958,8 @@
     "durationsec": "1200"
   },
   {
-    "form": "driving",
-    "mode": "driving",
+    "form": "2",
+    "mode": "2",
     "route": "3",
     "name ": "na",
     "longitude": "4.872523504",
@@ -1969,8 +1969,8 @@
     "durationsec": "1200"
   },
   {
-    "form": "driving",
-    "mode": "driving",
+    "form": "2",
+    "mode": "2",
     "route": "3",
     "name ": "na",
     "longitude": "4.873174306",
@@ -1980,8 +1980,8 @@
     "durationsec": "1200"
   },
   {
-    "form": "driving",
-    "mode": "driving",
+    "form": "2",
+    "mode": "2",
     "route": "3",
     "name ": "na",
     "longitude": "4.874234351",
@@ -1991,8 +1991,8 @@
     "durationsec": "1200"
   },
   {
-    "form": "driving",
-    "mode": "driving",
+    "form": "2",
+    "mode": "2",
     "route": "3",
     "name ": "na",
     "longitude": "4.877042472",
@@ -2002,8 +2002,8 @@
     "durationsec": "1200"
   },
   {
-    "form": "driving",
-    "mode": "driving",
+    "form": "2",
+    "mode": "2",
     "route": "3",
     "name ": "na",
     "longitude": "4.880619699",
@@ -2013,8 +2013,8 @@
     "durationsec": "1200"
   },
   {
-    "form": "driving",
-    "mode": "driving",
+    "form": "2",
+    "mode": "2",
     "route": "3",
     "name ": "na",
     "longitude": "4.883579711",
@@ -2024,8 +2024,8 @@
     "durationsec": "1200"
   },
   {
-    "form": "driving",
-    "mode": "driving",
+    "form": "2",
+    "mode": "2",
     "route": "3",
     "name ": "na",
     "longitude": "4.885530435",
@@ -2035,8 +2035,8 @@
     "durationsec": "1200"
   },
   {
-    "form": "driving",
-    "mode": "driving",
+    "form": "2",
+    "mode": "2",
     "route": "3",
     "name ": "na",
     "longitude": "4.887000781",
@@ -2046,8 +2046,8 @@
     "durationsec": "1200"
   },
   {
-    "form": "driving",
-    "mode": "driving",
+    "form": "2",
+    "mode": "2",
     "route": "3",
     "name ": "na",
     "longitude": "4.88835377",
@@ -2057,8 +2057,8 @@
     "durationsec": "1200"
   },
   {
-    "form": "driving",
-    "mode": "driving",
+    "form": "2",
+    "mode": "2",
     "route": "3",
     "name ": "na",
     "longitude": "4.890938059",
@@ -2068,8 +2068,8 @@
     "durationsec": "1200"
   },
   {
-    "form": "driving",
-    "mode": "driving",
+    "form": "2",
+    "mode": "2",
     "route": "3",
     "name ": "na",
     "longitude": "4.893394409",
@@ -2079,8 +2079,8 @@
     "durationsec": "1200"
   },
   {
-    "form": "driving",
-    "mode": "driving",
+    "form": "2",
+    "mode": "2",
     "route": "3",
     "name ": "na",
     "longitude": "4.897067785",
@@ -2090,8 +2090,8 @@
     "durationsec": "1200"
   },
   {
-    "form": "driving",
-    "mode": "driving",
+    "form": "2",
+    "mode": "2",
     "route": "3",
     "name ": "na",
     "longitude": "4.901860653",
@@ -2101,8 +2101,8 @@
     "durationsec": "1200"
   },
   {
-    "form": "driving",
-    "mode": "driving",
+    "form": "2",
+    "mode": "2",
     "route": "3",
     "name ": "na",
     "longitude": "4.903063561",
@@ -2112,8 +2112,8 @@
     "durationsec": "1200"
   },
   {
-    "form": "driving",
-    "mode": "driving",
+    "form": "2",
+    "mode": "2",
     "route": "3",
     "name ": "na",
     "longitude": "4.904305199",
@@ -2123,8 +2123,8 @@
     "durationsec": "1200"
   },
   {
-    "form": "driving",
-    "mode": "driving",
+    "form": "2",
+    "mode": "2",
     "route": "3",
     "name ": "na",
     "longitude": "4.906560435",
@@ -2134,8 +2134,8 @@
     "durationsec": "1200"
   },
   {
-    "form": "driving",
-    "mode": "driving",
+    "form": "2",
+    "mode": "2",
     "route": "3",
     "name ": "na",
     "longitude": "4.909091104",
@@ -2145,8 +2145,8 @@
     "durationsec": "1200"
   },
   {
-    "form": "driving",
-    "mode": "driving",
+    "form": "2",
+    "mode": "2",
     "route": "3",
     "name ": "na",
     "longitude": "4.911539649",
@@ -2156,8 +2156,8 @@
     "durationsec": "1200"
   },
   {
-    "form": "driving",
-    "mode": "driving",
+    "form": "2",
+    "mode": "2",
     "route": "3",
     "name ": "na",
     "longitude": "4.914007175",
@@ -2167,8 +2167,8 @@
     "durationsec": "1200"
   },
   {
-    "form": "driving",
-    "mode": "driving",
+    "form": "2",
+    "mode": "2",
     "route": "3",
     "name ": "na",
     "longitude": "4.916650987",
@@ -2178,8 +2178,8 @@
     "durationsec": "1200"
   },
   {
-    "form": "driving",
-    "mode": "driving",
+    "form": "2",
+    "mode": "2",
     "route": "3",
     "name ": "na",
     "longitude": "4.920072635",
@@ -2189,8 +2189,8 @@
     "durationsec": "1200"
   },
   {
-    "form": "driving",
-    "mode": "driving",
+    "form": "2",
+    "mode": "2",
     "route": "3",
     "name ": "na",
     "longitude": "4.927135851",
@@ -2200,8 +2200,8 @@
     "durationsec": "1200"
   },
   {
-    "form": "driving",
-    "mode": "driving",
+    "form": "2",
+    "mode": "2",
     "route": "3",
     "name ": "na",
     "longitude": "4.940876575",
@@ -2211,8 +2211,8 @@
     "durationsec": "1200"
   },
   {
-    "form": "driving",
-    "mode": "driving",
+    "form": "2",
+    "mode": "2",
     "route": "3",
     "name ": "na",
     "longitude": "4.944060986",
@@ -2222,8 +2222,8 @@
     "durationsec": "1200"
   },
   {
-    "form": "driving",
-    "mode": "driving",
+    "form": "2",
+    "mode": "2",
     "route": "3",
     "name ": "na",
     "longitude": "4.948708506",
@@ -2233,8 +2233,8 @@
     "durationsec": "1200"
   },
   {
-    "form": "driving",
-    "mode": "driving",
+    "form": "2",
+    "mode": "2",
     "route": "3",
     "name ": "na",
     "longitude": "4.951806852",
@@ -2244,8 +2244,8 @@
     "durationsec": "1200"
   },
   {
-    "form": "driving",
-    "mode": "driving",
+    "form": "2",
+    "mode": "2",
     "route": "3",
     "name ": "na",
     "longitude": "4.954589791",
@@ -2255,8 +2255,8 @@
     "durationsec": "1200"
   },
   {
-    "form": "driving",
-    "mode": "driving",
+    "form": "2",
+    "mode": "2",
     "route": "3",
     "name ": "na",
     "longitude": "4.95711437",
@@ -2266,8 +2266,8 @@
     "durationsec": "1200"
   },
   {
-    "form": "driving",
-    "mode": "driving",
+    "form": "2",
+    "mode": "2",
     "route": "3",
     "name ": "na",
     "longitude": "4.960126787",
@@ -2277,8 +2277,8 @@
     "durationsec": "1200"
   },
   {
-    "form": "driving",
-    "mode": "driving",
+    "form": "2",
+    "mode": "2",
     "route": "3",
     "name ": "na",
     "longitude": "4.961934156",
@@ -2288,8 +2288,8 @@
     "durationsec": "1200"
   },
   {
-    "form": "driving",
-    "mode": "driving",
+    "form": "2",
+    "mode": "2",
     "route": "3",
     "name ": "na",
     "longitude": "4.96468189",
@@ -2299,8 +2299,8 @@
     "durationsec": "1200"
   },
   {
-    "form": "driving",
-    "mode": "driving",
+    "form": "2",
+    "mode": "2",
     "route": "3",
     "name ": "na",
     "longitude": "4.967093008",
@@ -2310,8 +2310,8 @@
     "durationsec": "1200"
   },
   {
-    "form": "driving",
-    "mode": "driving",
+    "form": "2",
+    "mode": "2",
     "route": "3",
     "name ": "na",
     "longitude": "4.969471691",
@@ -2321,8 +2321,8 @@
     "durationsec": "1200"
   },
   {
-    "form": "driving",
-    "mode": "driving",
+    "form": "2",
+    "mode": "2",
     "route": "3",
     "name ": "na",
     "longitude": "4.970661311",
@@ -2332,8 +2332,8 @@
     "durationsec": "1200"
   },
   {
-    "form": "driving",
-    "mode": "driving",
+    "form": "2",
+    "mode": "2",
     "route": "3",
     "name ": "na",
     "longitude": "4.972124419",
@@ -2343,8 +2343,8 @@
     "durationsec": "1200"
   },
   {
-    "form": "driving",
-    "mode": "driving",
+    "form": "2",
+    "mode": "2",
     "route": "3",
     "name ": "na",
     "longitude": "4.973788982",
@@ -2354,8 +2354,8 @@
     "durationsec": "1200"
   },
   {
-    "form": "driving",
-    "mode": "driving",
+    "form": "2",
+    "mode": "2",
     "route": "3",
     "name ": "na",
     "longitude": "4.974126891",
@@ -2365,8 +2365,8 @@
     "durationsec": "1200"
   },
   {
-    "form": "driving",
-    "mode": "driving",
+    "form": "2",
+    "mode": "2",
     "route": "3",
     "name ": "na",
     "longitude": "4.973588124",
@@ -2376,8 +2376,8 @@
     "durationsec": "1200"
   },
   {
-    "form": "driving",
-    "mode": "driving",
+    "form": "2",
+    "mode": "2",
     "route": "3",
     "name ": "na",
     "longitude": "4.971846797",
@@ -2387,8 +2387,8 @@
     "durationsec": "1200"
   },
   {
-    "form": "driving",
-    "mode": "driving",
+    "form": "2",
+    "mode": "2",
     "route": "3",
     "name ": "na",
     "longitude": "4.969391313",
@@ -2398,8 +2398,8 @@
     "durationsec": "1200"
   },
   {
-    "form": "driving",
-    "mode": "driving",
+    "form": "2",
+    "mode": "2",
     "route": "3",
     "name ": "na",
     "longitude": "4.966414814",
@@ -2409,8 +2409,8 @@
     "durationsec": "1200"
   },
   {
-    "form": "driving",
-    "mode": "driving",
+    "form": "2",
+    "mode": "2",
     "route": "3",
     "name ": "na",
     "longitude": "4.960857425",
@@ -2420,8 +2420,8 @@
     "durationsec": "1200"
   },
   {
-    "form": "driving",
-    "mode": "driving",
+    "form": "2",
+    "mode": "2",
     "route": "3",
     "name ": "na",
     "longitude": "4.957573277",
@@ -2431,8 +2431,8 @@
     "durationsec": "1200"
   },
   {
-    "form": "driving",
-    "mode": "driving",
+    "form": "2",
+    "mode": "2",
     "route": "3",
     "name ": "na",
     "longitude": "4.952663282",
@@ -2442,8 +2442,8 @@
     "durationsec": "1200"
   },
   {
-    "form": "driving",
-    "mode": "driving",
+    "form": "2",
+    "mode": "2",
     "route": "3",
     "name ": "na",
     "longitude": "4.946058724",
@@ -2453,8 +2453,8 @@
     "durationsec": "1200"
   },
   {
-    "form": "driving",
-    "mode": "driving",
+    "form": "2",
+    "mode": "2",
     "route": "3",
     "name ": "na",
     "longitude": "4.942883542",
@@ -2464,8 +2464,8 @@
     "durationsec": "1200"
   },
   {
-    "form": "driving",
-    "mode": "driving",
+    "form": "2",
+    "mode": "2",
     "route": "3",
     "name ": "na",
     "longitude": "4.939445247",
@@ -2475,8 +2475,8 @@
     "durationsec": "1200"
   },
   {
-    "form": "driving",
-    "mode": "driving",
+    "form": "2",
+    "mode": "2",
     "route": "3",
     "name ": "na",
     "longitude": "4.938356399",
@@ -2486,8 +2486,8 @@
     "durationsec": "1200"
   },
   {
-    "form": "driving",
-    "mode": "driving",
+    "form": "2",
+    "mode": "2",
     "route": "3",
     "name ": "na",
     "longitude": "4.935207364",
@@ -2497,8 +2497,8 @@
     "durationsec": "1200"
   },
   {
-    "form": "driving",
-    "mode": "driving",
+    "form": "2",
+    "mode": "2",
     "route": "3",
     "name ": "na",
     "longitude": "4.933196026",
@@ -2508,8 +2508,8 @@
     "durationsec": "1200"
   },
   {
-    "form": "driving",
-    "mode": "driving",
+    "form": "2",
+    "mode": "2",
     "route": "3",
     "name ": "na",
     "longitude": "4.933878671",
@@ -2519,8 +2519,8 @@
     "durationsec": "1200"
   },
   {
-    "form": "driving",
-    "mode": "driving",
+    "form": "2",
+    "mode": "2",
     "route": "3",
     "name ": "na",
     "longitude": "4.934154885",
@@ -2530,8 +2530,8 @@
     "durationsec": "1200"
   },
   {
-    "form": "driving",
-    "mode": "driving",
+    "form": "2",
+    "mode": "2",
     "route": "3",
     "name ": "na",
     "longitude": "4.934545531",
@@ -2541,8 +2541,8 @@
     "durationsec": "1200"
   },
   {
-    "form": "driving",
-    "mode": "driving",
+    "form": "2",
+    "mode": "2",
     "route": "3",
     "name ": "na",
     "longitude": "4.935328561",
@@ -2552,8 +2552,8 @@
     "durationsec": "1200"
   },
   {
-    "form": "driving",
-    "mode": "driving",
+    "form": "2",
+    "mode": "2",
     "route": "3",
     "name ": "na",
     "longitude": "4.935731045",
@@ -2563,8 +2563,8 @@
     "durationsec": "1200"
   },
   {
-    "form": "driving",
-    "mode": "driving",
+    "form": "2",
+    "mode": "2",
     "route": "3",
     "name ": "na",
     "longitude": "4.936702625",
@@ -2574,8 +2574,8 @@
     "durationsec": "1200"
   },
   {
-    "form": "driving",
-    "mode": "driving",
+    "form": "2",
+    "mode": "2",
     "route": "3",
     "name ": "na",
     "longitude": "4.937116947",
@@ -2585,8 +2585,8 @@
     "durationsec": "1200"
   },
   {
-    "form": "driving",
-    "mode": "driving",
+    "form": "2",
+    "mode": "2",
     "route": "3",
     "name ": "na",
     "longitude": "4.937286621",
@@ -2596,8 +2596,8 @@
     "durationsec": "1200"
   },
   {
-    "form": "driving",
-    "mode": "driving",
+    "form": "2",
+    "mode": "2",
     "route": "3",
     "name ": "na",
     "longitude": "4.937436566",
@@ -2607,8 +2607,8 @@
     "durationsec": "1200"
   },
   {
-    "form": "driving",
-    "mode": "driving",
+    "form": "2",
+    "mode": "2",
     "route": "3",
     "name ": "na",
     "longitude": "4.937681213",
@@ -2618,8 +2618,8 @@
     "durationsec": "1200"
   },
   {
-    "form": "driving",
-    "mode": "driving",
+    "form": "2",
+    "mode": "2",
     "route": "3",
     "name ": "na",
     "longitude": "4.938095535",
@@ -2629,8 +2629,8 @@
     "durationsec": "1200"
   },
   {
-    "form": "driving",
-    "mode": "driving",
+    "form": "2",
+    "mode": "2",
     "route": "3",
     "name ": "na",
     "longitude": "4.937164298",
